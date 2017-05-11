@@ -1,0 +1,29 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": "explode a string",
+  "main": "app/StringSplosion.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saheedt/StringSplosion.git"
+  },
+  "keywords": [
+    "string",
+    "explode"
+  ],
+  "author": "saheed ajibulu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saheedt/StringSplosion/issues"
+  },
+  "homepage": "https://github.com/saheedt/StringSplosion#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
